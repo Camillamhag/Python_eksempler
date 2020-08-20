@@ -136,3 +136,8 @@ def myfunc():
 myfunc()
 
 print("Python is " + x)
+
+
+n = 10
+print_lend = list(range(1, n+1))
+print_lens = print_lens[0:-1] + print_lens
